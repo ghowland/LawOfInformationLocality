@@ -54,7 +54,7 @@ When I think about these problems for myself, I think about them with the "Local
 
 # Labels
 
-- **Unique-Information-Set**: A unique set of information.
+- **Unique-Information-Set**: A unique set of information.  This is distinct from populations of data, which are not being treated a single unique set, or other non-unique-sets of data.
 
 Variable: **UIS**
 
