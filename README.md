@@ -14,7 +14,9 @@ Uniqueness requires constraint, so if you had a physical unit (such as a disk dr
 
 However, if you choose the total life-span of this physical disk drive's state, how much of that local-data do you have access to?  Only that local data will be included in the unique state.
 
-The maximum local-data available is always in the "now" moment, when one can actually look for data, and then look for related data, and so on.  No matter how one creates their unique set of information can be created from any set of information, but there are obvious limits to what local-data is available for a given set of data.
+The maximum local-data available for physical objects is always in the "now" moment, when one can actually look for data, and then look for related data, and so on.  No matter how one creates their unique set of information can be created from any set of information, but there are obvious limits to what local-data is available for a given set of data.
+
+For non-physical objects, such as computer data, the data set is self-contained, and so a "now" moment has the same amount of data as any other stored moment in time (snapshot).
 
 If you have more than 1 physical thing, then you must consider the set of them as a given unique state.  The important thing for qualifying uniqueness for this Law is that nothing can be anonymous, nothing can be random, we are talking about a particular set of information, that is a local set of information.
 
