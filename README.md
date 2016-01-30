@@ -40,7 +40,7 @@ Non-local data is anything that is not inside the stated unique set of local inf
 
 You could also include all the set of non-physical data if you wanted to reference the data that was stored in the magnetic/etc states, but this could also be considered it's own unique set of information, separate from the physical state of the device.
 
-What determines the local data set is how you are looking at the problem, as that defines what is local to your information set, and what is non-local, or external, to your information set.
+What determines the local data set is how you are looking at the problem, as that defines what is local to your information set, and what is non-local (external) to your information set.
 
 # Examples
 
