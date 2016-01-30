@@ -56,11 +56,11 @@ When I think about these problems for myself, I think about them with the "Local
 
 - **Unique-Information-Set**: A unique set of information.
 
-Variable: **U**
+Variable: **UIS**
 
 - **Accuracy-Critical**: Accuracy of a decision about a unique set of information is critical.  We must succeed with our goals based on this decision, for this given set of information.
 
-Variable: **A**
+Variable: **AC**
 
 - **Local-Data-Only**: A problem that is Local-Data-Only.  Non-local (external) data is invalid.
 
@@ -68,7 +68,7 @@ Variable: **LDO**
 
 # Formula
 
-Given **U**, if **A** is True, then **LDO** is True.
+Given **UIS**, if **AC** is True, then **LDO** is True.
 
 # Examples
 
