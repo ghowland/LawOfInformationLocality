@@ -62,6 +62,17 @@ These define "Local-Data-Only" problems.
 
 [Example: Driving and Encountering an Obstacle](examples/driving.md)
 
+Example: Walking Up Stairs and Missing the Step
+
+Example: A Rotating Disk Drive Performs Slowly, Intermittently
+
+Example: Adding a Feature To A Set of Existing Source Code
+
+Example: Continuing To Speak, Once In The Middile of a Sentence
+
+Example: Making a Decision For What Software To Use On A Project
+
+Example: The Angle and Force to Use When Throwing a Basketball To Score a Point
 
 # Background
 
