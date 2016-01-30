@@ -12,7 +12,9 @@ A unique set of information is created any time you abstact any state into a sin
 
 Uniqueness requires constraint, so if you had a physical unit (such as a disk drive) you could consider either a given moment, or a set of moments (total life-span of this drive) as one unique set of state.
 
-However, if you choose the total life-span of this physical disk drive's state, how much of that local-data do you have access to?  Only that local data will be included in the unique state.  The maximum local-data available is always in the "now" moment, when one can actually look for data, and then look for related data, and so on.  No matter how one creates their unique set of information can be created from any set of information, but there are obvious limits to what local-data is available for a given set of data.
+However, if you choose the total life-span of this physical disk drive's state, how much of that local-data do you have access to?  Only that local data will be included in the unique state.
+
+The maximum local-data available is always in the "now" moment, when one can actually look for data, and then look for related data, and so on.  No matter how one creates their unique set of information can be created from any set of information, but there are obvious limits to what local-data is available for a given set of data.
 
 If you have more than 1 physical thing, then you must consider the set of them as a given unique state.  The important thing for qualifying uniqueness for this Law is that nothing can be anonymous, nothing can be random, we are talking about a particular set of information, that is a local set of information.
 
