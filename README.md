@@ -44,7 +44,7 @@ What determines the local data set is how you are looking at the problem, as tha
 
 ## Local-Data-Only Problems
 
-What this law defines are "Local-Data-Only" problems.  These are problems where external data is not valid.  Having a label of a "Law" provides an easy method to point to this treatise to get full information about this, but in common communication saying it is a "Local-Data-Only" problem is a much shorter and easier to way to communicate what needs to be communicated.
+What this law defines are **"Local-Data-Only"** problems.  These are problems where external data is not valid.  Having a label of a "Law" provides an easy method to point to this treatise to get full information about this, but in common communication saying it is a "Local-Data-Only" problem is a much shorter and easier to way to communicate what needs to be communicated.
 
 When I think about these problems for myself, I think about them with the "Local-Data-Only" label, which provides sufficient clarity for me.
 
