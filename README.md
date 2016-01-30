@@ -44,7 +44,7 @@ What determines the local data set is how you are looking at the problem, as tha
 
 # Examples
 
-## Example:  Driving and Encountering an Obstacle
+### Example:  Driving and Encountering an Obstacle
 
 [Example: Driving and Encountering an Obstacle](examples/driving.md)
 
