@@ -78,23 +78,21 @@ I believe this is currently a gap in our collective understanding.  When seen fr
 
 My plan to solve this is through exhaustion.  I will provide an exhaustive number of examples, for many different cases, to underline cases in which only local-data is valid.
 
-These define "Local-Data-Only" problems.
+These define "Local-Data-Only" problems:
 
-### Example:  Driving and Encountering an Obstacle
+- [Example: Driving and Encountering an Obstacle](examples/driving.md)
 
-[Example: Driving and Encountering an Obstacle](examples/driving.md)
+- Example: Walking Up Stairs and Missing the Step
 
-Example: Walking Up Stairs and Missing the Step
+- Example: A Rotating Disk Drive Intermittently Performs Slowly
 
-Example: A Rotating Disk Drive Intermittently Performs Slowly
+- Example: Adding a Feature To A Set of Existing Source Code
 
-Example: Adding a Feature To A Set of Existing Source Code
+- Example: Continuing To Speak, Once In The Middile of a Sentence
 
-Example: Continuing To Speak, Once In The Middile of a Sentence
+- Example: Making a Decision For What Software To Use On A Project
 
-Example: Making a Decision For What Software To Use On A Project
-
-Example: The Angle and Force to Use When Throwing a Basketball To Score a Point
+- Example: The Angle and Force to Use When Throwing a Basketball To Score a Point
 
 # Background
 
