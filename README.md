@@ -86,7 +86,7 @@ These define "Local-Data-Only" problems.
 
 Example: Walking Up Stairs and Missing the Step
 
-Example: A Rotating Disk Drive Performs Slowly, Intermittently
+Example: A Rotating Disk Drive Intermittently Performs Slowly
 
 Example: Adding a Feature To A Set of Existing Source Code
 
