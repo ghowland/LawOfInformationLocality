@@ -94,6 +94,12 @@ My plan to solve this is through exhaustion.  I will provide an exhaustive numbe
 
 - Example: The Angle and Force to Use When Throwing a Basketball To Score a Point
 
+# Related Concepts
+
+- ["The Map Is Not The Territory"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
+
+- [Statistics: The Ecological Fallacy](https://en.wikipedia.org/wiki/Ecological_fallacy)
+
 # Background
 
 I wrote this in the theme of technological self-named laws, when one wants to make a point and have a label to reference that point.
