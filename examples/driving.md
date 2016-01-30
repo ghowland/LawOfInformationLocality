@@ -28,3 +28,7 @@ This is an example for [Howland's Law of Information Locality](../README.md)
 4. The only data relevant to making this decision will come from the local data, which is:  If the obstacle is closer to the Right Side of the car, you should "Turn Left" to better avoid it, and conversely if the obstacle is closer to the Left Side of the car, you should "Turn Right" to better avoid it.  If the obstacle is directly in the center of your car, then either option is equally valid, so you can "Turn Left" with the maximum available safety.
 5. No amount of non-local data that could be analyzed would be able to give anything but pure chance as to the location of the obstacle in relation to your car, to determine which direction is best to avoid the obstacle.
 6. Additionally, external information has the potential to be biased through assumptions in test formulation, which are unrelated to the physical location of your car and the obstacle, in this moment in time.
+
+## Go Back
+
+(Back to the Law of Information Locality)[../README.md]
