@@ -1,6 +1,8 @@
 # Howland's Law of Information Locality
 
-**Law:** For a unique set of information, if a decision needs to be made and accuracy is critical, all non-local data is invalid.
+**The Law:**
+
+"For a unique set of information, if a decision needs to be made and accuracy is critical, all non-local data is invalid."
 
 ## Unique Set of Information
 
