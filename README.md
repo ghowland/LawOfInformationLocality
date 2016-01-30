@@ -92,7 +92,7 @@ It happens all the time, every day, to every person I know (including myself), a
 
 Local-data being required for local-data-only problems does not invalidate the use of non-local data for all sorts of other uses, such as using statistics (non-local data) to make a decision about a unique set of data, when accuracy is not critical.  Or when using statistics against a large-enough population, or where we only collect small amounts of local data, and again, where accuracy is not critical.
 
-Accuracy being critical is a key element to this.  Statistics take into account an amount of error, as acceptable.  When that is not acceptable, then they are invalid.  If error is acceptable, then it is not a critical decision that is being made.
+Accuracy being critical is a key element to this.  Statistics take into account an amount of error, as acceptable.  When that is not acceptable, then they are invalid.  If error is acceptable, then it is not an Accuracy-Critical decision that is being made.
 
 **You can see the background for when I testing whether there was already prior art for this here:**
 
