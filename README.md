@@ -78,7 +78,7 @@ I believe this is currently a gap in our collective understanding.  When seen fr
 
 My plan to solve this is through exhaustion.  I will provide an exhaustive number of examples, for many different cases, to underline cases in which only local-data is valid.
 
-These define "Local-Data-Only" problems:
+### These define "Local-Data-Only" problems:
 
 - [Example: Driving and Encountering an Obstacle](examples/driving.md)
 
