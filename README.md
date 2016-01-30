@@ -94,7 +94,7 @@ My plan to solve this is through exhaustion.  I will provide an exhaustive numbe
 
 - Example: Adding a Feature To A Set of Existing Source Code
 
-- Example: Continuing To Speak, Once In The Middile of a Sentence
+- Example: Continuing To Type, Once In The Middle of a Sentence
 
 - Example: Making a Decision For What Software To Use On A Project
 
