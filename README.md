@@ -4,6 +4,8 @@
 
 "For a unique set of information, if a decision needs to be made and accuracy is critical, all non-local data is invalid."
 
+# Definitions
+
 ## Unique Set of Information
 
 A unique set of information is created any time you abstact any state into a single entity.  This could be an environment in a moment of time (fixed state for that moment), or it could be a physical unit (such as a hard drive) in a given moment.
