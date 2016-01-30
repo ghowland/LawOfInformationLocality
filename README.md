@@ -56,19 +56,19 @@ When I think about these problems for myself, I think about them with the "Local
 
 - **Unique-Information-Set**: A unique set of information.
 
-Variable: **u**
+Variable: **U**
 
 - **Accuracy-Critical**: Accuracy of a decision about a unique set of information is critical.  We must succeed with our goals based on this decision, for this given set of information.
 
-Variable: **a**
+Variable: **A**
 
 - **Local-Data-Only**: A problem that is Local-Data-Only.  Non-local (external) data is invalid.
 
-Variable: **ldo**
+Variable: **LDO**
 
 # Formula
 
-Given **u**, if **a** is True, then **ldo** is True.
+Given **U**, if **A** is True, then **LDO** is True.
 
 # Examples
 
