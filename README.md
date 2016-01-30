@@ -52,6 +52,24 @@ What this law defines are **"Local-Data-Only"** problems.  These are problems wh
 
 When I think about these problems for myself, I think about them with the "Local-Data-Only" label, which provides sufficient clarity for me.
 
+# Labels
+
+- **Unique-Information-Set**: A unique set of information.
+
+Variable: **u**
+
+- **Accuracy-Critical**: Accuracy of a decision about a unique set of information is critical.  We must succeed with our goals based on this decision, for this given set of information.
+
+Variable: **a**
+
+- **Local-Data-Only**: A problem that is Local-Data-Only.  Non-local (external) data is invalid.
+
+Variable: **ldo**
+
+# Formula
+
+Given **u**, if **a** is True, then **ldo** is True.
+
 # Examples
 
 Because this concept seems to be currently overlapped by other concepts, it has not been easy to explain how it exists independent from other concepts.
