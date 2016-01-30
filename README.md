@@ -38,7 +38,7 @@ In short, when you really want whatever it is you are going to do, to work.
 
 Non-local data is anything that is not inside the stated unique set of local information.  If you have a given single rotating disk drive at a given time as the unique set of information, then only information contained by the physical states (including magnetic/etc states, in which data is stored) is included.  Data about that series of rotating disk drive's manufacturing defects is not valid, because while that may be statistically significant for a large-enough populatio of data, it does not describe anything about the exact state of this single rotating disk drive.
 
-You could also include all the set of non-physical data if you wanted to reference the data that was stored in the magnetic/etc states, but this could also be considered it's own unique set of information.
+You could also include all the set of non-physical data if you wanted to reference the data that was stored in the magnetic/etc states, but this could also be considered it's own unique set of information, separate from the physical state of the device.
 
 What determines the local data set is how you are looking at the problem, as that defines what is local to your information set, and what is non-local, or external, to your information set.
 
