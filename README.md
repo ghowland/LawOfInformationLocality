@@ -42,7 +42,19 @@ You could also include all the set of non-physical data if you wanted to referen
 
 What determines the local data set is how you are looking at the problem, as that defines what is local to your information set, and what is non-local (external) to your information set.
 
+## Local-Data-Only Problems
+
+What this law defines are "Local-Data-Only" problems.  These are problems where external data is not valid.  Having a label of a "Law" provides an easy method to point to this treatise to get full information about this, but in common communication saying it is a "Local-Data-Only" problem is a much shorter and easier to way to communicate what needs to be communicated.
+
+When I think about these problems for myself, I think about them with the "Local-Data-Only" label, which provides sufficient clarity for me.
+
 # Examples
+
+Because this concept currently seems to be overlapped by other concepts, it has not been easy to explain how it exits independent from other concepts.  I believe this is currently a gap in our collective understanding, although when seen from "common sense" perspective it is obvious.  Once we start to look at problems intellectually, we abandon our "common sense" mechanisms to work with more refined and precise mechanisms, which happen to just not include a mechanism for separating out local-data-only problems from problems where non-local data is valid.
+
+My plan to solve this is through exhaustion.  I will provide an exhaustive number of examples, for many different cases, to underline cases in which only local-data is valid.
+
+These define "Local-Data-Only" problems.
 
 ### Example:  Driving and Encountering an Obstacle
 
