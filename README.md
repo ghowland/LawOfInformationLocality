@@ -51,6 +51,16 @@ What determines the local data set is how you are looking at the problem, as tha
 
 # Background
 
+I wrote this in the theme of self-name Usenet Law's.  Naming it after myself is primarily because it is my assertion that this is true, and I am not finding consensus or a way to even easily discuss this topic because there does not seem to be matching prior art.  So having a unique label to reference this by is required to differentiate it from other ideas that are not covering the same material.
+
+If you can invalidate this Law, let me know and I will update it accordingly.
+
+I wrote this because there is a real problem going on with people ignoring local data, when it is the local data that will inform them on what their current problem-state is, and they are often looking outside their local data to determine what to do, and this causes problems.  It happens all the time, every day, to every person I know, and so I am writing this to point out this issue so it can become known, and thus can be addressed appropriately.
+
+Local-data being required for local-data-only problems does not invalidate the use of non-local data for all sorts of other uses, such as using statistics (non-local data) to make a decision about a unique set of data, when accuracy is not critical.  Or when using statistics against a large-enough population, or where we only collect small amounts of local data, and again, where accuracy is not critical.
+
+Accuracy being critical is a key element to this.  Statistics take into account an amount of error, as acceptable.  When that is not acceptable, than they are invalid.
+
 You can see the background for when I testing whether there was already prior art for this here:
 
 https://github.com/ghowland/StatsInvalidWhenPopIsOne
