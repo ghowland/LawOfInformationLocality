@@ -52,7 +52,7 @@ When I think about these problems for myself, I think about them with the "Local
 
 Because this concept seems to be currently overlapped by other concepts, it has not been easy to explain how it exists independent from other concepts.
 
-I believe this is currently a gap in our collective understanding, although when seen from "common sense" perspective it is obvious.  Once we start to look at problems intellectually, we abandon our "common sense" mechanisms to work with more refined and precise mechanisms, which happen to just not include a mechanism for separating out local-data-only problems from problems where non-local data is valid.
+I believe this is currently a gap in our collective understanding.  When seen from "common sense" perspective it is obvious.  Once we start to look at problems intellectually, we abandon our "common sense" mechanisms to work with more refined and precise mechanisms, which happen to just not include a mechanism for separating out local-data-only problems from problems where non-local data is valid.
 
 My plan to solve this is through exhaustion.  I will provide an exhaustive number of examples, for many different cases, to underline cases in which only local-data is valid.
 
