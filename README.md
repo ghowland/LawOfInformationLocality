@@ -51,7 +51,7 @@ What determines the local data set is how you are looking at the problem, as tha
 
 # Background
 
-I wrote this in the theme of self-name Usenet Law's.  Naming it after myself is primarily because it is my assertion that this is true, and I am not finding consensus or a way to even easily discuss this topic because there does not seem to be matching prior art.  So having a unique label to reference this by is required to differentiate it from other ideas that are not covering the same material.
+I wrote this in the theme of technological self-named laws.  Naming it after myself is primarily because it is my assertion that this is true, and I am not finding consensus or a way to even easily discuss this topic because there does not seem to be matching prior art.  So having a unique label to reference this by is required to differentiate it from other ideas that are not covering the same material.
 
 If you can invalidate this Law, let me know and I will update it accordingly.
 
