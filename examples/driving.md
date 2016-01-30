@@ -1,6 +1,6 @@
 # Example: Driving and Encountering an Obstacle
 
-This is an example for [Howland's Law of Information Locality](../README.md)
+This is an example for [Howland's Law of Information Locality](../)
 
 ## Initial Scenario
 
@@ -31,4 +31,4 @@ This is an example for [Howland's Law of Information Locality](../README.md)
 
 ## Go Back
 
-[Back to the Law of Information Locality](../README.md)
+[Back to the Law of Information Locality](../)
