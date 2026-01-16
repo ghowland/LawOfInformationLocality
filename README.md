@@ -125,3 +125,5 @@ Accuracy being critical is a key element to this.  Statistics take into account 
 **You can see the background for when I testing whether there was already prior art for this here:**
 
 https://github.com/ghowland/StatsInvalidWhenPopIsOne
+
+Renamed from Law to Axiom for more correctness.  Most correct would be "Boundary Constraint".
