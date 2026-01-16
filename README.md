@@ -1,6 +1,6 @@
-# Howland's Law of Information Locality
+# Howland's Axiom of Information Locality
 
-**The Law:**
+**The Axiom:**
 
 "For a unique set of information, if a decision needs to be made and accuracy is critical, all non-local data is invalid."
 
@@ -18,7 +18,7 @@ The maximum local-data available for physical objects is always in the "now" mom
 
 For non-physical objects, such as computer data, the data set is self-contained, and so a "now" moment has the same amount of data as any other stored moment in time (snapshot).
 
-If you have more than 1 physical thing, then you must consider the set of them as a given unique state.  The important thing for qualifying uniqueness for this Law is that nothing can be anonymous, nothing can be random, we are talking about a particular set of information, that is a local set of information.
+If you have more than 1 physical thing, then you must consider the set of them as a given unique state.  The important thing for qualifying uniqueness for this Axiom is that nothing can be anonymous, nothing can be random, we are talking about a particular set of information, that is a local set of information.
 
 #### Unique Set of Information, as a Population
 
@@ -54,7 +54,7 @@ What determines the local data set is how you are looking at the problem, as tha
 
 ## Local-Data-Only Problems
 
-What this law defines are **"Local-Data-Only"** problems.  These are problems where external data is not valid.  Having a label of a "Law" provides an easy method to point to this treatise to get full information about this, but in common communication saying it is a "Local-Data-Only" problem is a much shorter and easier to way to communicate what needs to be communicated.
+What this Axiom defines are **"Local-Data-Only"** problems.  These are problems where external data is not valid.  Having a label of a "Axiom" provides an easy method to point to this treatise to get full information about this, but in common communication saying it is a "Local-Data-Only" problem is a much shorter and easier to way to communicate what needs to be communicated.
 
 When I think about these problems for myself, I think about them with the "Local-Data-Only" label, which provides sufficient clarity for me.
 
@@ -108,11 +108,11 @@ My plan to solve this is through exhaustion.  I will provide an exhaustive numbe
 
 # Background
 
-I wrote this in the theme of technological self-named laws, when one wants to make a point and have a label to reference that point.
+I wrote this in the theme of technological self-named Axioms, when one wants to make a point and have a label to reference that point.
 
 Naming it after myself is primarily because it is my assertion that this is true, and I am not finding consensus or a way to even easily discuss this topic because there does not seem to be matching prior art.  So having a unique label to reference this by is required to differentiate it from other ideas that are not covering the same material.
 
-If you can invalidate this Law, let me know and I will update it accordingly.
+If you can invalidate this Axiom, let me know and I will update it accordingly.
 
 I wrote this because there is a real problem going on with people ignoring local data, when it is the local data that will inform them on what their current problem-state is, and they are often looking outside their local data to determine what to do, and this causes problems.
 
